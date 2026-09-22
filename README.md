@@ -24,8 +24,5 @@ Projects in this repo may include (but are not limited to):
 ## Repository Structure
 ```bash
 learning-lab/
-│── JS/
-│   └──  portfolio-card/
-└──  README.md
-
-```
+│── JS_portfolio_card/
+│── README.md
