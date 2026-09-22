@@ -25,5 +25,7 @@ Projects in this repo may include (but are not limited to):
 ```bash
 learning-lab/
 │── JS/
-│   L__ portfolio-card/
-│── README.md
+│   └──  portfolio-card/
+└──  README.md
+
+```
