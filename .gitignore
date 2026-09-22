@@ -1,3 +1,13 @@
-#Ignore custom files
-Learning-javascript/
+# Node / Angular
+**/node_modules/
+**/.angular/
+**/dist/
+
+# Python / Environment
+**/__pycache__/
+**/.venv/
+**/venv/
+**/.env
+
+# Editor settings
 .vscode/
