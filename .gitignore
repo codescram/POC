@@ -12,6 +12,12 @@
 # Editor settings
 .vscode/
 
+
+# Never AlLow
+**/extra/
+
+
+# Allow when completed
 Angular_Practice/
 Angular_gspann-ecom/
 Angular_nglearning/
@@ -20,8 +26,6 @@ JS_Bg_Changer/desktop.ini
 JS_Parllex/desktop.ini
 JS_Personal-Info-Card/desktop.ini
 Node_Backend_P1/
-Python_FastAPI/
 React_Counter/desktop.ini
 React_dmreporting/
 desktop.ini
-**/extra/
